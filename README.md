@@ -24,14 +24,14 @@ Telehealth is the use of digital information and communication technologies, suc
 
 2. Scrum Master - Keerthi Muli
 
-![Github link](https://github.com/KeerthiMuli)
+[Github link](https://github.com/KeerthiMuli)
 
 ![image](https://user-images.githubusercontent.com/77706824/119565903-2504f200-bd70-11eb-9568-c908bbef6a4a.png)
 
 
 3. Developer - Venkat Gadde
 
-![Github link](https://github.com/VenkatGadde9999/)
+[Github link](https://github.com/VenkatGadde9999/)
 
 
 ![image](https://user-images.githubusercontent.com/77706824/119578562-5b4b6d00-bd82-11eb-9d1c-05c8598ac6c6.png)
@@ -40,7 +40,7 @@ Telehealth is the use of digital information and communication technologies, suc
 
 4. Designer - Sudha Parchuri
 
-![Github link](https://github.com/SudhaP10/)
+[Github link](https://github.com/SudhaP10/)
 
 ![image](https://user-images.githubusercontent.com/84041794/119570377-a4e18b00-bd75-11eb-9fb6-dce8bf2a22d1.png)
 
