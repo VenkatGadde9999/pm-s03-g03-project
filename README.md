@@ -46,8 +46,22 @@ Telehealth is the use of digital information and communication technologies, suc
 
 
 ## Schedule ##
-- Start Date: 6/26/2021
-- End Date: 9/14/2021
-- Duration: 14 weeks
+- Start Date: 6/03/2021
+- End Date: 7/03/2021
+- Duration: 4 weeks
 
 ## Budget ##
+
+- The total project value is around $10000 for the project
+- Ten Thousand Dollars
+
+## Scope Suggestions ##
+  - Registrations & Logins
+    - Register as a Doctor
+    - Register as a patient
+    - Login as a Doctor
+    - Login as Patient
+  - Schedule appointmenr
+  - View Appointment
+  - Cancel Appointment
+  - Approve appointment
