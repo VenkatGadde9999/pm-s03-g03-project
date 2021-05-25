@@ -1,1 +1,7 @@
-# pm-s03-g03-project
+# Table of contents
+- Our Project
+- Our Team
+- Project Charter
+- Scope
+- Schedule
+- Budget
