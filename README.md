@@ -35,7 +35,7 @@ Telehealth is the use of digital information and communication technologies, suc
 
 ![Github link](https://github.com/SudhaP10/)
 
-![image](https://user-images.githubusercontent.com/84041794/119559973-f8011100-bd68-11eb-8178-49fe32a45d51.png)
+![image](https://user-images.githubusercontent.com/84041794/119570377-a4e18b00-bd75-11eb-9fb6-dce8bf2a22d1.png)
 
 ## Project Charter ##
 
