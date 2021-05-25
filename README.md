@@ -29,8 +29,12 @@ Telehealth is the use of digital information and communication technologies, suc
 ![image](https://user-images.githubusercontent.com/77706824/119565903-2504f200-bd70-11eb-9568-c908bbef6a4a.png)
 
 
-
 3. Developer - Venkat Gadde
+
+![Github link](https://github.com/VenkatGadde9999/)
+
+
+
 4. Designer - Sudha Parchuri
 
 ![Github link](https://github.com/SudhaP10/)
@@ -68,7 +72,7 @@ Telehealth is the use of digital information and communication technologies, suc
     - Register as a patient
     - Login as a Doctor
     - Login as Patient
-  - Schedule appointmenr
+  - Schedule appointment
   - View Appointment
   - Cancel Appointment
   - Approve appointment
