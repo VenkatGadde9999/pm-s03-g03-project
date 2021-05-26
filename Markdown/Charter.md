@@ -5,7 +5,7 @@
 **Project Start Date**: 06/01/2021
 **Project End Date**: 11/01/2021
 
-**Project Estimation**: $10000
+**Project Estimation**: $65000
 
 **Product Owner**: Prasanna Arla
 
