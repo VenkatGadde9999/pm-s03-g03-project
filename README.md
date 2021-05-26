@@ -78,6 +78,9 @@ Telehealth is the use of digital information and communication technologies, suc
 - The total project value is around $10000 for the project
 - Ten Thousand Dollars
 
+![image](https://user-images.githubusercontent.com/77706824/119719319-43c9be00-be2e-11eb-8234-ddb06750ebab.png)
+
+
 ## Scope Suggestions ##
   - Registrations & Logins
     - Register as a Doctor
