@@ -47,10 +47,24 @@ Telehealth is the use of digital information and communication technologies, suc
 
 - Scope Features
   1. Initiation
+
+![image](https://user-images.githubusercontent.com/77841883/119717821-cc4b5d00-be34-11eb-9011-20d5b3091fa5.png)
+
   2. Planning
+
+![image](https://user-images.githubusercontent.com/77841883/119717894-e4bb7780-be34-11eb-84de-a65e67a54253.png)
+
   3. Executing
+
+![image](https://user-images.githubusercontent.com/77841883/119718159-38c65c00-be35-11eb-8905-fa2d5588e472.png)
+
   4. Monitoring and controlling
+
+![image](https://user-images.githubusercontent.com/77841883/119718226-4ed41c80-be35-11eb-91a5-345787b523fc.png)
+
   5. Closing
+  ![image](https://user-images.githubusercontent.com/77841883/119718310-64494680-be35-11eb-839b-73a0c42a7871.png)
+
 - WBS tree structure
 
 
