@@ -40,7 +40,7 @@ Telehealth is the use of digital information and communication technologies, suc
 ![image](https://user-images.githubusercontent.com/84041794/119570377-a4e18b00-bd75-11eb-9fb6-dce8bf2a22d1.png)
 
 ## Project Charter ##
-* [Click to view our Project Charter](Markdown/charter.md)
+* [Click to view our Project Charter](Markdown/Charter.md)
 
 
 ## Scope ##
