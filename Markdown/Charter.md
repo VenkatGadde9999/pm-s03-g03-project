@@ -2,9 +2,8 @@
 
 **Project Tagline**: Get a low-risk urgent health care from where you are.
 
-**Project Start Date**: 06/03/2021
-
-**Project End Date**: 07/03/2021
+**Project Start Date**: 06/01/2021
+**Project End Date**: 11/01/2021
 
 **Project Estimation**: $80000
 
