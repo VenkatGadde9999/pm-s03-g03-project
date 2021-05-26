@@ -74,8 +74,9 @@ Telehealth is the use of digital information and communication technologies, suc
 - Duration: 6 months
 - Please see below screenshot of project schedule.
 
-![image](https://user-images.githubusercontent.com/84041794/119720730-f4848d00-be2f-11eb-9750-144561e2391a.png)
+![image](https://user-images.githubusercontent.com/84041794/119722640-2ac30c00-be32-11eb-9e34-4d3bf97cb47f.png)
 
+![image](https://user-images.githubusercontent.com/84041794/119722662-31ea1a00-be32-11eb-9ded-8fce248c679c.png)
 
 
 ## Budget ##
