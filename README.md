@@ -21,21 +21,18 @@ Telehealth is the use of digital information and communication technologies, suc
 ## Our Team ##
 #### 1. Product Owner - [Prasanna Arla](https://github.com/PRASANNAARLA) ###
 
+![image](https://user-images.githubusercontent.com/77706824/119590803-1849c380-bd9b-11eb-92b5-20b18b57aea7.png)
 
-![image](https://user-images.githubusercontent.com/77756728/119584730-cdc24a00-bd8e-11eb-85d2-c9733deef1bb.png)
 
 #### 2. Scrum Master - [Keerthi Muli](https://github.com/KeerthiMuli) ####
 
-
-![image](https://user-images.githubusercontent.com/77706824/119565903-2504f200-bd70-11eb-9568-c908bbef6a4a.png)
+![image](https://user-images.githubusercontent.com/77706824/119589651-db7ccd00-bd98-11eb-9c73-8d76f13c5fb1.png)
 
 
 #### 3. Developer - [Venkat Gadde](https://github.com/VenkatGadde9999/) ####
 
 
-![image](https://user-images.githubusercontent.com/77706824/119578562-5b4b6d00-bd82-11eb-9d1c-05c8598ac6c6.png)
-
-
+![image](https://user-images.githubusercontent.com/77706824/119590080-b8065200-bd99-11eb-96f8-fbcebf37dcc3.png)
 
 #### 4. Designer - [Sudha Parchuri](https://github.com/SudhaP10/) ####
 
