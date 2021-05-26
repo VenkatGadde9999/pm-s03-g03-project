@@ -21,7 +21,7 @@ Telehealth is the use of digital information and communication technologies, suc
 ## Our Team ##
 #### 1. Product Owner - Prasanna Arla ###
 [GitHub Link](https://github.com/PRASANNAARLA)
-![image](https://user-images.githubusercontent.com/84041794/119560051-1109c200-bd69-11eb-9b12-186262ffde08.png)
+![image](![image](https://user-images.githubusercontent.com/77756728/119584636-8e93f900-bd8e-11eb-8612-463a3b3d7417.png))
 
 #### 2. Scrum Master - Keerthi Muli ####
 
