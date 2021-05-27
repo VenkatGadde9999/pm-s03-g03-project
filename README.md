@@ -87,12 +87,12 @@ Telehealth is the use of digital information and communication technologies, suc
 
 
 ## Scope Suggestions ##
-  - Registrations & Logins
+  - Phase 1 - Registrations & Logins
     - Register as a Doctor
-    - Register as a patient
+    - Register as a Patient
     - Login as a Doctor
     - Login as Patient
-  - Schedule appointment
-  - View Appointment
-  - Cancel Appointment
-  - Approve appointment
+  - Phase 2 - Book Appointment
+  - Phase 2 - View/Edit Appointment
+  - Phase 2 - Cancel Appointment
+  - Phase 2 - Approve Appointment
