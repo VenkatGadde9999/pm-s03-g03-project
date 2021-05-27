@@ -10,7 +10,7 @@
 ## Our Project ##
 **Project Title:** TeleHealth.
 
-**Project Tagline:** Get a low-risk urgent health care from where you are.
+**Project Tagline:** Get a low-risk urgent health care from anywhere and anytime.
 
 **Team Name:** TeleCare.
 
