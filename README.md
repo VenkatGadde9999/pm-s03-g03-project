@@ -46,24 +46,26 @@ Telehealth is the use of digital information and communication technologies, suc
 ## Scope ##
 
 - Scope Features
-  1. Initiation
 
-![image](https://user-images.githubusercontent.com/77841883/119717821-cc4b5d00-be34-11eb-9011-20d5b3091fa5.png)
+1.Initiation
 
-  2. Planning
+![image](https://user-images.githubusercontent.com/84041794/119752878-5d392d00-be63-11eb-9c8e-11cad880ff78.png)
 
-![image](https://user-images.githubusercontent.com/77841883/119717894-e4bb7780-be34-11eb-84de-a65e67a54253.png)
+2.Planning
 
-  3. Executing
+![image](https://user-images.githubusercontent.com/84041794/119754931-cbcbba00-be66-11eb-8498-2810d09a8fd7.png)
 
-![image](https://user-images.githubusercontent.com/77841883/119718159-38c65c00-be35-11eb-8905-fa2d5588e472.png)
+3.Executing
 
-  4. Monitoring and controlling
+![image](https://user-images.githubusercontent.com/84041794/119754952-d38b5e80-be66-11eb-9cc3-220f46ba0b9e.png)
 
-![image](https://user-images.githubusercontent.com/77841883/119718226-4ed41c80-be35-11eb-91a5-345787b523fc.png)
+4.Monitoring and controlling
 
-  5. Closing
-  ![image](https://user-images.githubusercontent.com/77841883/119718310-64494680-be35-11eb-839b-73a0c42a7871.png)
+![image](https://user-images.githubusercontent.com/84041794/119755236-498fc580-be67-11eb-96c0-1f62ebf0c300.png)
+
+5.Closing
+  
+![image](https://user-images.githubusercontent.com/84041794/119755191-3846b900-be67-11eb-9790-151638b8449c.png)
 
 - WBS tree structure
 
