@@ -49,23 +49,19 @@ Telehealth is the use of digital information and communication technologies, suc
 
 1.Initiation
 
-![image](https://user-images.githubusercontent.com/84041794/119752878-5d392d00-be63-11eb-9c8e-11cad880ff78.png)
+![image](https://user-images.githubusercontent.com/77756728/119886846-0d0caa00-bef9-11eb-8b9f-f10fbe7b1e6c.png)
 
 2.Planning
+![image](https://user-images.githubusercontent.com/77756728/119886890-19910280-bef9-11eb-8264-008c2c3083de.png)
 
-![image](https://user-images.githubusercontent.com/84041794/119754931-cbcbba00-be66-11eb-8498-2810d09a8fd7.png)
-
-3.Executing
-
-![image](https://user-images.githubusercontent.com/84041794/119754952-d38b5e80-be66-11eb-9cc3-220f46ba0b9e.png)
+3.Executing![image](https://user-images.githubusercontent.com/77756728/119886961-29104b80-bef9-11eb-8b2e-b63ade6dedc3.png)
 
 4.Monitoring and controlling
-
-![image](https://user-images.githubusercontent.com/84041794/119755236-498fc580-be67-11eb-96c0-1f62ebf0c300.png)
+![image](https://user-images.githubusercontent.com/77756728/119887012-388f9480-bef9-11eb-9195-e3adc0e19cbc.png)
 
 5.Closing
   
-![image](https://user-images.githubusercontent.com/84041794/119755191-3846b900-be67-11eb-9790-151638b8449c.png)
+![image](https://user-images.githubusercontent.com/77756728/119887045-434a2980-bef9-11eb-96a1-1cbafdce186a.png)
 
 - WBS tree structure
 
