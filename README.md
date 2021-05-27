@@ -69,12 +69,12 @@ Telehealth is the use of digital information and communication technologies, suc
 ## Schedule ##
 - Start Date: 05/26/2021
 - End Date: 09/24/2021
-- Duration: 5 months
+- Duration: 4 months
 - Please see below screenshot of project schedule.
 
-![image](https://user-images.githubusercontent.com/84041794/119722640-2ac30c00-be32-11eb-9e34-4d3bf97cb47f.png)
+![image](https://user-images.githubusercontent.com/77756728/119887419-bbb0ea80-bef9-11eb-89a9-97c7f612e82c.png)
 
-![image](https://user-images.githubusercontent.com/84041794/119722662-31ea1a00-be32-11eb-9ded-8fce248c679c.png)
+![image](https://user-images.githubusercontent.com/77756728/119887598-f3b82d80-bef9-11eb-8bdb-e743101b1814.png)
 
 
 ## Budget ##
