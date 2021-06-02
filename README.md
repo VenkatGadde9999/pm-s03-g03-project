@@ -98,3 +98,12 @@ Telehealth is the use of digital information and communication technologies, suc
   - Phase 2 - View/Edit Appointment
   - Phase 2 - Cancel Appointment
   - Phase 2 - Approve Appointment
+  
+  ## Reference(External Sources) ##
+  
+[More Info About TeleHealth](https://telehealth.hhs.gov/patients/understanding-telehealth/?gclid=EAIaIQobChMI0Iek-M758AIVKW5vBB0giQZ5EAAYAiAAEgLZtPD_BwE)
+
+ 
+ [Budget Plan Samples](https://www.projectmanager.com/templates/project-budget-template)
+
+  
